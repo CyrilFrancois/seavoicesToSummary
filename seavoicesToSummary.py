@@ -39,6 +39,7 @@ def clean_seavoicesfiles(seavoicestxt : str):
 
 # Usage example
 if __name__ == "__main__":
+    print("Starting seavoicesToSummary...")
     with open(os.getenv("CONTEXT"), 'r', encoding='utf-8') as file:
         context = file.read()
     with open(os.getenv("SUMMARY"), 'r', encoding='utf-8') as file:
@@ -51,12 +52,15 @@ if __name__ == "__main__":
         seavoices = file.read()
 
     prompt = f"""
-    Transforme le transcript ci-dessous en un récit de fantasy complet et immersif, comme si tu racontais un roman ou une chronique épique.
+    Tâche :
+    Transforme le transcript ci-dessous en un récit de fantasy complet et immersif, comme si tu racontais un roman ou une chronique épique. 
+    A la fin, rajoute une partie détaillant les noms de tous les personnages et leurs rôles ainsi que les quêtes qui ont été déclenchées ou finies.
 
-    Suis rigoureusement les consignes suivantes :
+    Consignes suivantes à suivre rigoureusement :
 
     Utilise le contexte du jeu, les notes de la session précédente et le résumé de début de campagne pour reconstruire fidèlement les événements, les noms des personnages, lieux, factions, objets et quêtes.
-    Radblue est le maître du jeu, considère-le comme une voixoff narrant l'histoire.
+    Base toi sur la partie d'avant pour continuer l'histoire sans discontinuité sauf elipse temporelle.
+    Radblue est le maître du jeu, considère-le comme une voixoff narrant l'histoire mais il ne dpot pas apparaître.
     Ailouros et Salazar utilise le même micro et sont tous les deux identifiés comme Salazar.
     N'écrit que l'histoire racontée par les joueurs, n'inclus pas les dicussions extérieurs à la partie. 
     Le transcript est en plein milieu de partie, il commence à partir des fins des parties précédentes et n'atteint pas nécéssairement la conclusion.
@@ -77,6 +81,10 @@ if __name__ == "__main__":
 
     Ne fais pas de résumé. Ne saute rien d'important. Ne donne aucun avis ou explication. Raconte uniquement l'histoire, comme si tu étais le chroniqueur officiel de cette campagne.
 
+    Après le récit que tu as transformé depuis le transcript, rajoute une partie pour détaillers l'ensemble des personnages du scénario (joueurs et non-joueurs) en étant exclusif, en inclus un résumé de leur rôle dans le scénario.
+    Ensuite, après le récit et la liste des personnages, rajoute la liste des quêtes trouvées ou finies ("Ce [nom de personnage] demande aux héros d'aller chercher...", "Un monstre menace Phandeline...", "La troupe doit aller chercher de l'aide ou un objet...")
+
+    Données supplémentaires (contexte, résumé de la campagne, résumé précédent, et le transcript à transformer)
     Contexte du jeu :
     {context}
 
