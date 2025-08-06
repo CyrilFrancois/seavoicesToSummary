@@ -2,133 +2,88 @@ Il s'agit d'un jeu de rôle Pathfinder 2 (proche d'un Donjons et Dragons).
 
 Il a un maître du jeu, Naick (surnommé Radblue) et quatre joueurs :
 - Cyril (jouant avant Wenriem, le maire de Phandeline, et maintenant Cellach, un thaumaturge qui encaisse les attaques avec son bouclier aussi de la famille étendue de Murs d'argent comme Wenriem) ;
-- Mathieu (jouant avant Irkul, le chef des gardes de Phandeline, et maintenant Lilie, une barde voleuse qui use de ses charmes et de sa duplicité pour aider et convaincre et marié à Irkul) ;
+- Mathieu (jouant avant Irkul, le chef des gardes de Phandeline, et maintenant Lilie, une barde voleuse qui use de ses charmes et de sa duplicité pour aider et convaincre et marié à Irkul) ; Mathieu a aussi joué le rôle de Zitrick, un petit homme lézard escarmourcheur blanc qui se pend pour un homme et est l'apprenti du gardin de la forêt de feu, une sous partie de la fôret de Roche sang autour de phandeline qui avait été ravagé par un incendie quelques mois plus tôt.
 - Camille (jouant Ailouros, une femme chat espiègle et voleuse se battant avec un arc en ayant Cape Sombre, une entité dans sa cape l'aidant)
-- Nicolas (jouant Salazar, un naga, homme serpent. C'est un druide sage qui respecte autant la nature qu'il est attiré par le feu)
+- Nicolas (jouant Salazar, un naga, homme serpent. C'est un druide sage qui respecte autant la nature qui est attiré par le feu)
 
 Phandeline est un village que les héros reconstruise pendant leurs aventure, elle est située dans la fôret de Roche Sang dans la région du Shelin. Le village de Phandeline a peu de contacts avec l'extérieur mais s'ouvre avec l'arrivée des héros qui la reconstruise avec notamment l'ancien personnage jouer de Wenriem devenu maire dans le manoir. Il est un descendant de la famille des Murs d'Argent, une ancienne famille éradiquée quiu maintenant cherche à traversl eurs descendants a faire revivre leur honneur.
 
 
 QUETES DU GROUPE DE HEROS DE PHANDELINE :
 - En cours (court terme)
-
 Résoudre le crime de la banshee à Coniberry ?
 
 - En cours (long terme)
-
 Tuer le druide gardien (Redotte?) de la forêt pour le dragon vert Croc Venimeux
-
 Se repentir des vies prises pour la forêt partie en flamme.
-
 Construire la ville
-
 Où se trouve le livre du grand magicien Saludou ?
-
 La banshee, en échange du peigne de Garaëlle nous répond qu'elle a vendu le grimoire à un necromancien, Serre-note, dans la ville Talébave, capitale du Royaume (plusieurs mois de marche).
-
 Annexer Coniberry pour construire la scierie de Phadeline
 
 - Finies
-
 Sauver les nains dans la forge
-
 Retrouver et sécuriser l'ancienne forge
-
 Défaire Ada et l'Araignée Noire, ayant embauché les Fer Rouges
-
 Défaire Baton-de-Verre, Iarno
-
 La fumée de la prison (cc. Gobelins et Kobolds sont sous la ville, chefs défaits mais pas Croc-venin ni pourquoi demon))
-
 Pourquoi les gobelins et Kobolds sont sous Phadeline ?
+Sauver le coeur de la fôret de feu et Zitrick qui remplace l'ancien gardien du feu pour veiller sur la fôret de rôche sang toute entière.
 
 
 LISTE DES PERSONNAGES IMPORTANTS
 - Personnages Joueurs:
-
-Salazar, druide naga ayant une affinité étrange pour le feu
-
+Salazar, druide naga ayant une affinité étrange pour le feu, un druide proteceur de la nature mais yant rejoint la voie des flammes lors de l'incendie qu'il a causé par idnavertance, brûlant la forêt de Roche Sang, et utilise des sorts naturels et de feu.  
 Ailouros, une femme féline aux tendance de roublarde
-
 Cellach, frère d'arme de Mur d'Argent de Wenriem
-
-Lilie, thiefline barde d'une beauté égale à son discours
+Lilie, thiefline barde d'une beauté égale à son discours et jetteuse d'envoutements
 
 - Ex personnages joueurs:
-
 Snip, gobelin dans un pénitencier lointain
-
 Hekkat, félis dans un pénitencier lointain
-
 Irkul, dans la garde de phadeline ayant emménagé avec sa fille et Lili sa femme. (bouquetin Klinka)
-
+Zitrick, un petit homme lézard escarmourcheur blanc qui se pend pour un homme et devenu le gardin de la forêt de feu
 Wenriem, seigneur de la Phadeline et travaille à l'élaboration de la fédération des Murs d'Argent.
 Natra, une palinde ayant commis des crimes et se repentant dans la lumière
 
 - Manoir Mur d'Argent, manoir ou siège Wenriem le maire de Phandeline :
-
 Wenrief, Doppelganger de l'araignée, espion de Wenriem qui prend en général l'allure d'une thiefline.
-
 Halya Thorntorn, Gestionnaire de la mine aux affaires chelou
 
 - Conyberry, village de bucherons annexe à Phandeline :
-
 Holy, une Coalt, un serpent ailé arc-en-ciel doté d'une grande intelligence vaniteux
-
 Lindaka, un explorateur et mage (et reporter)
 
 - A Phadeline:
-
 - Mineurs/Forgerons :
-
 Gundren (chef nain),
-
 Ginder,
-
 Balmar
-
 et Nundro ChercheRoche
 
 - Compagnie de Balmar, compagnie d'artisans nains intallés à Phandeline :
-
 Balmar : maître artiste, chef de la compagnie d'artiste et inventeur
-
 Gromril : alchimiste
-
 Oralnor : la naine appentie qui tente des expériences (jambe magique de Wenriem, arme antidragon)
-
 Helm & Merine : apprentie aussi
 
 - Marchands :
-
 Soeur Garaël, Guérisseuse de la ville
-
 Linene, La marchande du bouclier au lion
-
 Au provision de Barthen
-
 Tanak, forgeron
-
 Tavernier (géant endormi)
-
 Tavernier (auberge Rochecolline)
 
 Garde :
-
 Gred,
-
-Sildar (chef)
+Sildar (chef avant Irkul)
 
 - Ennemis :
-
 Crocs Venimeux, dragon vert que l'on a duper pour sauver nos vies… Voulant surement se venger,
 
 - Autre:
-
 Kono, petit gobelin amical (mort)
-
 Galob, autre petit gobelin amical venu des fumées de la prison
-
 Dryade de la forêt, voulant venger la destruction de la forêt
-
 L'herboriste, Abanye Nianna, habitant au loin dans la forêt
